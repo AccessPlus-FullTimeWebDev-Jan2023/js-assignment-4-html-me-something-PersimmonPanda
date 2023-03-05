@@ -1,1 +1,12 @@
 /* Write your CSS here! */
+#mainHeading {
+    color:red;
+    font-family: "Arial", "Helvetica", "Cursive";
+}
+body {
+    margin: 8px;
+    padding: 42px;
+}
+.funParagraph {
+    color: green;
+}
